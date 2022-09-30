@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 
-<h3 align="center">Devloper by day and red hat by night!.</h3>
+<h3 align="center">Developer by day and RedHat by night!.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/69/8e/8c/698e8c7d1583cb81f67f517e9b140807.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshreyasshetty&label=Profile%20views&color=0e75b6&style=flat" alt="theshreyasshetty" /> </p>
