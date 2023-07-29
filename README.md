@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Python, Java, Networking, Purple Teaming**
 
-- 🤝 I’m looking for help with **Sugeestions where I can improve**
+- 🤝 I’m looking for help with **Suggestions where I can improve**
 
 - 💬 Ask me about anything [here](https://github.com/TheShreyasShetty/TheShreyasShetty/issues)
 
