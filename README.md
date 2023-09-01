@@ -21,7 +21,7 @@
 
 <a href="https://github.com/theshreyasshetty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshreyasshetty&layout=compact&theme=buefy&hide_border=true" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theshreyasshetty&show_icons=true&locale=en" alt="theshreyasshetty" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theshreyasshetty&show_icons=true&locale=en" alt="theshreyasshetty" /></p> --->
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theshreyasshetty&show_icons=true&locale=en&layout=compact" alt="theshreyasshetty" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshreyasshetty&" alt="theshreyasshetty" /></p>-->
